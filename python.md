@@ -1,4 +1,4 @@
-# Python Configuration
+# Python
 
 ## Install Anaconda
 
