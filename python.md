@@ -16,3 +16,5 @@
 1. Install Python [plugin](https://github.com/Microsoft/vscode-python)
 
 2. Install Jupyter [plugin](https://github.com/Microsoft/vscode-jupyter)
+
+3. Set default python interpreter as Anaconda.
