@@ -2,4 +2,5 @@
 
 1. [Git](./git.md)
 2. [Python](./python.md)
-3. [Wolfram](/wolfram.md)
+3. [Wolfram](./wolfram.md)
+4. [Latex](./latex.md)
